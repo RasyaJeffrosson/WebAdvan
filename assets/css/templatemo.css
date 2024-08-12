@@ -187,6 +187,6 @@ p, a {font-weight: 400;}
 }
 /* Footer */
 footer a.text-light:hover {
-  color: #bfbfbf !important;
+  color: #fff !important;
   transition-duration: 0.15s;
 }
